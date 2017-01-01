@@ -1,0 +1,15 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "color game from web dev bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "cjwoodru2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
